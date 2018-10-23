@@ -3,7 +3,17 @@
   <component name="ChangeListManager">
     <list default="true" id="1860728f-a49d-4bca-8acd-3bc95aeb11c1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3rdpartylicenses.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/wodproof.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/wodproof.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/wodproof.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.17e2cfd76834b2a70ce8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/polyfills.f6ae3e8b63939c618130.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.ec2944dd8b20ec099bf3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.6a9564d0c71c2df847d0.css" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,26 +23,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.17e2cfd76834b2a70ce8.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/main.17e2cfd76834b2a70ce8.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret column="284778" selection-start-column="284778" selection-end-column="284778" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -51,6 +42,7 @@
       <list>
         <option value="$PROJECT_DIR$/main.17e2cfd76834b2a70ce8.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/404.html" />
       </list>
     </option>
   </component>
@@ -63,7 +55,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="34" />
     <option name="y" value="20" />
     <option name="width" value="1852" />
@@ -167,15 +159,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540317808046</updated>
-      <workItem from="1540317809925" duration="2401000" />
+      <workItem from="1540317809925" duration="3539000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2401000" />
+    <option name="totallyTimeSpent" value="3539000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -187,10 +179,10 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32996634" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.32996634" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -230,6 +222,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/404.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
         </state>
       </provider>
     </entry>
