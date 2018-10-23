@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1860728f-a49d-4bca-8acd-3bc95aeb11c1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.17e2cfd76834b2a70ce8.js" beforeDir="false" afterPath="$PROJECT_DIR$/main.17e2cfd76834b2a70ce8.js" afterDir="false" />
-    </list>
+    <list default="true" id="1860728f-a49d-4bca-8acd-3bc95aeb11c1" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +24,7 @@
         <entry file="file://$PROJECT_DIR$/main.17e2cfd76834b2a70ce8.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret column="283290" selection-start-column="283290" selection-end-column="283290" />
+              <caret column="283292" selection-start-column="283292" selection-end-column="283292" />
             </state>
           </provider>
         </entry>
@@ -160,12 +157,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1540317808046</updated>
-      <workItem from="1540317809925" duration="1228000" />
+      <workItem from="1540317809925" duration="1496000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1228000" />
+    <option name="totallyTimeSpent" value="1496000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -181,7 +178,7 @@
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32996634" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32996634" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24973147" />
@@ -220,7 +217,7 @@
     <entry file="file://$PROJECT_DIR$/main.17e2cfd76834b2a70ce8.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret column="283290" selection-start-column="283290" selection-end-column="283290" />
+          <caret column="283292" selection-start-column="283292" selection-end-column="283292" />
         </state>
       </provider>
     </entry>
